@@ -1,4 +1,4 @@
-# Vite &amp; React &amp; Typescript &amp; Prettier &amp; Eslint   (❁´◡`❁)
+# Vite + React + Typescript + Prettier + Eslint   (❁´◡`❁)
 
 
 
